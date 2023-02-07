@@ -1,0 +1,355 @@
+h1{
+    color: red;
+}
+
+.header{
+    width: 100%;
+    height: 63px;
+    background: #c0deee29;
+    padding-top: 19px;
+    padding-left: 93px;
+}
+body{
+    margin: 0;
+    background-color: black;
+}
+
+.logo{
+    width: 50%;
+    padding-top: 0%;
+    float:left;
+    
+}
+
+.search{
+    margin-top: -8px;
+    margin-left: -35px;
+    width: 50%;
+    padding-left: 54%;
+    padding-bottom: 0%;
+}
+
+.Wynklogo{
+    width: 165px;
+    height: 43px;
+    padding-right: 10px;
+    float:left;
+    
+}
+
+.searchbar{
+    border: 25px;
+    border-radius: 2px;
+    margin-top: -3px;
+    margin-left: 13px;
+    background-color: #161617;
+    width: 512px;
+    height: 47px;
+    padding-left: 14px;
+    float: left;
+   
+}
+
+.first{
+    cursor: pointer;
+    color: white;
+    float: left;
+    margin-top: 14px;
+}
+
+.first:hover{
+    color: #a19a9a;
+}
+
+
+.second{
+    cursor: pointer;
+    color: white;
+    padding-left: 5%;
+    padding-right: 36px;
+    margin-top: 14px;
+    float: left;
+}
+
+.second:hover{
+    color: #a19a9a;
+}
+
+
+
+
+
+.SB{
+    border: #3d3c49;
+    cursor: pointer;
+    background-color: #3d3c49;
+    margin-top: -3px;
+    margin-left: -9px;
+    height: 49px;
+    width: 50px;
+}
+
+.third{
+    cursor: pointer;
+    color: white;
+    margin-top: 14px;
+    float: left;
+}
+.third:hover{
+    color: #a19a9a;
+}
+
+.a{
+    cursor: pointer;
+    font-size: 24px;
+    margin-left: 26px;
+    color: white;
+    margin-top: 14px;
+    float: left;
+}
+
+
+.s{
+    
+    color: white;
+}
+
+.l{
+    cursor: pointer;
+    color: white;
+    float: left;
+    margin-top: 14px;
+    margin-left: 28px;
+}
+
+
+.fourth{
+    cursor: pointer;
+    color: white;
+    float: left;
+    margin-left: 25px;
+}
+.fourth:hover{
+    color: #a19a9a;
+}
+
+.Main-body{
+    width: 100%;
+    
+}
+
+.left-section{
+    width: 20%;
+    margin-top: 35px;
+    float: left;
+}
+.LI{
+    position: absolute;
+}
+
+.mid-section{
+    width: 60%;
+    margin-top: 35px;
+    float: left;
+}
+
+.right-section{
+    width: 20%;
+    float: left;
+    margin-top: 35px;
+
+
+}
+
+.NewR{
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 110px;
+    margin-top: 36px;
+    color: white;
+}
+
+.more{
+    margin-left: 164px;
+    color: red;
+}
+
+.RI{
+    width: 408px;
+    margin-left: 13px;
+    margin-bottom: 39px;
+}
+
+.SsFi{
+    cursor: pointer;
+    width: 189px;
+    margin-top: 25px;
+    margin-left: 120px;
+}
+
+
+.play-button{
+    bottom: 42px;
+    right: 123px;
+    opacity: 0;
+    position: relative;
+    width: 3rem;
+}
+
+.play-button:hover{
+    opacity: 1;
+    
+}
+
+.TsFi{
+    cursor: pointer;
+    width: 189px;
+    margin-top: 0px;
+    margin-left: 117px;
+}
+
+.FsFi{
+    cursor: pointer;
+    width: 176px;
+    margin-top: 0px;
+    margin-left: 185px;
+
+}
+
+.FisFi{
+    cursor: pointer;
+    border-radius: 50%;
+    width: 176px;
+    margin-top: 0px;
+    margin-left: 187px;
+}
+
+.Fs{
+    cursor: pointer;
+    border-radius: 50%;
+    width: 176px; 
+    margin-left: 20px;
+}
+
+.Footer{
+    width: 100%;
+
+}
+
+.About{
+ 
+    padding-left: 44px;
+    border: 1px solid #a19a9a;
+    width: 79%;
+    color: white;
+    padding-top: 55px;
+    margin-left: 140px;
+    margin-top: 59px;
+}
+
+.quote{
+    position: absolute;
+    right: 159px;
+    margin-top: -55px;
+}
+
+.AWM{
+    font-family: Roboto,sans-serif;
+    margin-top: -11px;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+.AWMP{
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+    margin-top: -15px;
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+
+    
+
+
+.ht{
+    cursor: pointer;
+    color: #a19a9a;
+}
+.ht:hover{
+    color: white;
+}
+
+.wlogo{
+    width: 70px;
+}
+
+.Mlogo{
+    display: flex;  
+    width: 50%; 
+    height: 90px
+}
+
+.music-logo{
+    height: 88px;
+    background-color: #201f2d;
+    margin-left: 106px;
+    width: 86%;
+    margin-top: 50px;
+}
+
+.store{    
+    position: relative;
+    left: 652px;
+    width: 100%;
+}
+
+.writings{
+    padding-left: 7%;
+    width: 86%;
+    height: 200px;
+}
+
+.LS{
+    width: 25%;
+    float: left;
+}
+
+.write-style{
+    color: #a19a9a;
+}
+
+.LastF{
+    width: 100%;
+    height: 200px;
+}
+.LiN1{
+    margin-top: 35px;
+    width: 86%;
+    border: 1px solid #a19a9a;
+    margin-left: 104px;
+}
+.LiN1H{
+    width: 60%;
+    font-size: .875rem;
+    line-height: 2.25rem;
+    float: left;
+    padding-left: 120px;
+    color: white;
+}
+
+.SoIcon{
+    padding-left: 186px;
+    color: white;
+    position: relative;
+    top: 0.5rem;
+    width: 3rem;
+    float: left;
+    
+}
+
+.LiN2{
+    margin-top: 35px;
+    width: 86%;
+    border: 1px solid #a19a9a;
+    margin-left: 104px;
+}
